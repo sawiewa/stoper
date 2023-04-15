@@ -28,7 +28,7 @@ body {
   padding: 50px;
   width: 800px;
   background-image: radial-gradient(circle, rgb(43, 44, 46) 0%, rgb(25, 25, 25) 93%);
-  border-radius: 8px;
+  border-radius: 9px;
   box-shadow: 5px 5px 10px black;
   color: #fff;
   overflow: hidden;
